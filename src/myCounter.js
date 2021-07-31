@@ -1,4 +1,4 @@
-/* eslint-disable no-let */
+/* eslint-disable no-var */
 /* eslint-disable block-scoped-var */
 /* eslint-disable no-redeclare */
 /* eslint-disable vars-on-top */
